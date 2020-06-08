@@ -1,5 +1,5 @@
 {
-  "name": "@typeform/embed",
+  "name": "typeform-embed-no-focus",
   "version": "0.20.0",
   "description": "Library to embed Typeforms in your website",
   "author": "Typeform",
