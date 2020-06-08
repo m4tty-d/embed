@@ -176,7 +176,7 @@ class Widget extends Component {
         isFormReady: true
       },
       () => {
-        this.focusIframe()
+        // this.focusIframe()
       }
     )
   }

@@ -174,7 +174,7 @@ class Popup extends Component {
       setTimeout(() => {
         this.setState({ frameAnimate: true })
         if (iframeRef && iframeRef.contentWindow) {
-          iframeRef.contentWindow.focus()
+          // iframeRef.contentWindow.focus()
         }
       }, 500)
     })
